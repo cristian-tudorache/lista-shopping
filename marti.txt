@@ -1,2 +1,3 @@
 decathlon:
 mingii tenis
+rachete tenis
